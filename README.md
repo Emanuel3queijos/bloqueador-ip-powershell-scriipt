@@ -4,6 +4,9 @@
 
 run this at adm powershell
 
+i dont think it works for any google plataform 
+
+
 ```shell
 # Define the URL
 $URL = "example.com"
